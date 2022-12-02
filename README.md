@@ -1,6 +1,7 @@
-#Notas Este es mi primer programa con Node
+# Notas:
+Este es mi primer programa con Node
 
-Opciones:
+# Opciones:
       --help     Muestra ayuda                                        [booleano]
       --version  Muestra número de versión                            [booleano]
   -b, --base     La base de la tabla de multiplicar         [número] [requerido]
